@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2016/02/orange-france.jpg?resize=1024,539");
+    background-attachment: fixed;
+    background-size: cover;
+}
+.main-div mat-card {
+    padding: 0px;
+   
+
+}
+.login-form{
+    padding :20px;
+}
